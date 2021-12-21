@@ -6,5 +6,54 @@
                      and my goal is to become a more knowledgeable person in the field of data science and related technology.
                      
                      
-                     
-![profile img](/assests/proimg%20(1).jpg)
+![<img src="/assests/proimg%20(1).jpg" width="250" Height="450"/>](/assests/proimg%20(1).jpg)                     
+[profile img](/assests/proimg%20(1).jpg)
+
+
+## Education
+
+
+
+
+
+
+
+## Experience
+
+
+
+
+
+
+
+## Hobbies
+
+
+
+
+
+
+
+
+
+## Skills
+
+
+
+
+
+
+
+
+
+
+
+
+##                                                 Get In Touch
+
+
+
+
+
+
+
