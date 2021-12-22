@@ -1,5 +1,9 @@
 # Pawan Kumar Pathak
-
+<p align="center">
+<img src="assests/proimg%20(1).jpg" width="200">
+ </p>
+ 
+ 
 ## About Me
                              My name is Pawan Kumar Pathak. I’m a student of IITM Bsc Degree Program. 
                                          I'm most passionate about learning Data science, 
@@ -7,7 +11,7 @@
                      
                      
                    
-![profile img](/assests/proimg%20(1).jpg)
+
 
 
 ## Education
